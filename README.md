@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kyzen 👋
 
-<!--
-**kyzen-dev7/Kyzen-Dev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in building efficient, well-structured software and learning how systems work under the hood.
 
-Here are some ideas to get you started:
+## What I’m interested in
+- Software development
+- System design & performance
+- Backend & tooling
+- Learning new technologies step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m doing
+- Improving programming fundamentals
+- Working on small projects and experiments
+- Learning by building and contributing
+
+## Goals
+- Become a strong, reliable software engineer
+- Work on real-world projects
+- Continuously improve problem-solving skills
+
+Thanks for stopping by 🙂
