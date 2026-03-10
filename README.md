@@ -1,42 +1,58 @@
-<h1 align="center">KYZEN</h1>
-<h3 align="center">🚀 Explorer of Code, Space & Intelligence</h3>
+<!-- SPACE HEADER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2B,100:1B2A49&height=200&section=header&text=KYZEN&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h3 align="center">🚀 Explorer of Code • Space • Intelligence</h3>
 
 <p align="center">
-Student preparing for <b>JEE 2027</b> • Future Engineer • Space Enthusiast
+🎓 Student preparing for <b>JEE 2027</b> • Future Engineer • Technology Enthusiast
 </p>
 
 ---
 
-## 🌌 About Me
+# 🌌 About Me
 
-- 🎓 Student preparing for **JEE 2027**
-- 🚀 Curious about **space, science, and the universe**
-- 🤖 Exploring **Artificial Intelligence**
-- 💻 Learning **software development & open source**
-- 📚 Always improving **knowledge and problem solving**
+Hello 👋
+
+I'm **Kyzen**, a student passionate about **technology, science, and the universe**.
+
+I enjoy exploring how **software, artificial intelligence, and scientific thinking** can help build the future.
+
+### What I'm currently focused on
+
+- 🎓 Preparing for **JEE 2027**
+- 🤖 Learning the fundamentals of **Artificial Intelligence**
+- 💻 Improving skills in **software development**
+- 🌍 Exploring **open-source technologies**
+- 🚀 Studying topics related to **space and astronomy**
+- 📚 Building strong **problem-solving and analytical thinking**
+
+I believe in **continuous learning**, curiosity, and exploring new ideas.
 
 ---
 
-## 🚀 Interests
+# 🚀 Interests
 
-- 🌌 Space & Astronomy  
-- 🤖 Artificial Intelligence  
-- 💻 Software Engineering  
-- 🌍 Open Source Technology  
+- 🌌 **Space & Astronomy**
+- 🤖 **Artificial Intelligence**
+- 💻 **Software Engineering**
+- 🌍 **Open Source Development**
+- 🧠 **Technology & Innovation**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,react,git,github,linux,vscode,html,css"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -48,7 +64,7 @@ Student preparing for <b>JEE 2027</b> • Future Engineer • Space Enthusiast
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -58,7 +74,17 @@ Student preparing for <b>JEE 2027</b> • Future Engineer • Space Enthusiast
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Coding Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyzen-dev7&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -68,14 +94,39 @@ Student preparing for <b>JEE 2027</b> • Future Engineer • Space Enthusiast
 
 ---
 
-## 🌠 Philosophy
+# 💡 Random Dev Quote
 
-> "Stay curious.  
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌠 Philosophy
+
+> Stay curious.  
 > Explore the unknown.  
-> Enjoy the Universe."
+> Enjoy the universe. 🌌
+
+---
+
+# 👁 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kyzen-dev7&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
 
 ---
 
 <p align="center">
-⭐ If you like space, AI, and technology — follow the journey.
+⭐ If you enjoy space, AI, and technology — follow the journey.
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A49,100:0B0F2B&height=120&section=footer"/>
 </p>
