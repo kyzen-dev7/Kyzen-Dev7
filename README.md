@@ -61,7 +61,9 @@ Student preparing for <b>JEE 2027</b> • Future Engineer • Space Enthusiast
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kyzen-dev7/kyzen-dev7/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/kyzen-dev7/kyzen-dev7/output/github-contribution-grid-snake-dark.svg">
+
 </p>
 
 ---
