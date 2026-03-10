@@ -72,7 +72,7 @@ Student preparing for <b>JEE 2027</b> • Future Engineer • Space Enthusiast
 
 > "Stay curious.  
 > Explore the unknown.  
-> Build the future."
+> Enjoy the Universe."
 
 ---
 
