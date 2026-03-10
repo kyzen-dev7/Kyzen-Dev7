@@ -44,7 +44,7 @@ Right now I'm simply **learning, experimenting, and improving step by step**.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,git,github,linux,vscode,html,css"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,git,github,docker,vscode,arch,debian"/>
 
 </p>
 
