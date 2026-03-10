@@ -40,9 +40,9 @@ Student preparing for <b>JEE 2027</b> • Future Engineer • Space Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kyzen-dev7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kyzen-dev7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyzen-dev7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyzen-dev7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
