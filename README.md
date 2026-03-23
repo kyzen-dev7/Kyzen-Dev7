@@ -67,7 +67,7 @@ Still learning. Still experimenting.
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyzen-dev7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyzen-dev7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyzendev7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -77,7 +77,7 @@ Still learning. Still experimenting.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=kyzen-dev7&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kyzendev7&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -87,7 +87,7 @@ Still learning. Still experimenting.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyzen-dev7&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyzendev7&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -97,7 +97,7 @@ Still learning. Still experimenting.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/kyzen-dev7/kyzen-dev7/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/kyzendev7/kyzendev7/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
@@ -112,5 +112,5 @@ Still learning. Still experimenting.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kyzen-dev7&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=kyzendev7&label=Profile%20Views&color=blue&style=flat"/>
 </p>
